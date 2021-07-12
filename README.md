@@ -16,4 +16,4 @@ Más imágenes:
 <img style="float: right;" src="https://user-images.githubusercontent.com/65095924/125353745-2c805a80-e320-11eb-9397-e55a47bb3544.png" alt="Albedo" width="40%"/>
 ___
 ## Herramientas utilizadas:  
-**NetBeans 8.2 IDE (Lenguaje C++)**
+* **NetBeans 8.2 IDE (Lenguaje C++)**
