@@ -7,11 +7,10 @@ Existen tres tipos de archivos para cargar previamente:
 * Archivo de Usuarios: Contiene los usuarios donde cada usuario tiene registrado un conjunto de imágenes.
 
 ## Ejemplos:  
-Ejemplos de imágenes generadas con la aplicación.  
 <img style="float: left;" src="https://user-images.githubusercontent.com/65095924/125353099-5a18d400-e31f-11eb-8d69-5121195abeb9.png" alt="MarioBros" width="40%"/>
 <img style="float: right;" src="https://user-images.githubusercontent.com/65095924/125353151-6a30b380-e31f-11eb-8f69-35d2ca02be06.png" alt="MarioBrosBlack" width="40%"/>  
-<center><img src="https://user-images.githubusercontent.com/65095924/125353386-b976e400-e31f-11eb-8cb1-a84d7a519cf2.png" alt="pacman" width="50%"/></center>
-<center><img src="https://user-images.githubusercontent.com/65095924/125353745-2c805a80-e320-11eb-9397-e55a47bb3544.png" alt="Albedo" width="40%"/></Center>
+<img src="https://user-images.githubusercontent.com/65095924/125353386-b976e400-e31f-11eb-8cb1-a84d7a519cf2.png" alt="pacman" width="50%"/>
+<img src="https://user-images.githubusercontent.com/65095924/125353745-2c805a80-e320-11eb-9397-e55a47bb3544.png" alt="Albedo" width="50%"/>
 
 <!--![MarioBrosBlack](https://user-images.githubusercontent.com/65095924/125353151-6a30b380-e31f-11eb-8f69-35d2ca02be06.png "Mario Bros Black")
 
