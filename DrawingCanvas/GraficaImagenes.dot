@@ -1,0 +1,44 @@
+digraph Imagenes{
+ nodesep=0.5;
+ node[shape=box, fillcolor=white,style=filled];
+ edge[color="#FF9B00"];
+nodocircular6 [label="Imagen: 6"];
+nodocircular3 [label="Imagen: 3"];
+nodocircular4 [label="Imagen: 4"];
+nodocircular7 [label="Imagen: 7"];
+nodocircular6 -> nodocircular3[constraint=false];
+nodocircular6 -> nodocircular7[constraint=false];
+nodocircular3 -> nodocircular4[constraint=false];
+nodocircular3 -> nodocircular6[constraint=false];
+nodocircular4 -> nodocircular7[constraint=false];
+nodocircular4 -> nodocircular3[constraint=false];
+nodocircular7 -> nodocircular6[constraint=false];
+nodocircular7 -> nodocircular4[constraint=false];
+nodocircular6 -> simplecapa63 [constraint=true];
+simplecapa63 [label="capa: 3"];
+simplecapa63 -> simplecapa65 [constraint=true];
+simplecapa65 [label="capa: 5"];
+simplecapa65 -> simplecapa61 [constraint=true];
+simplecapa61 [label="capa: 1"];
+nodocircular3 -> simplecapa35 [constraint=true];
+simplecapa35 [label="capa: 5"];
+simplecapa35 -> simplecapa32 [constraint=true];
+simplecapa32 [label="capa: 2"];
+simplecapa32 -> simplecapa34 [constraint=true];
+simplecapa34 [label="capa: 4"];
+nodocircular4 -> simplecapa45 [constraint=true];
+simplecapa45 [label="capa: 5"];
+simplecapa45 -> simplecapa43 [constraint=true];
+simplecapa43 [label="capa: 3"];
+simplecapa43 -> simplecapa44 [constraint=true];
+simplecapa44 [label="capa: 4"];
+nodocircular7 -> simplecapa72 [constraint=true];
+simplecapa72 [label="capa: 2"];
+simplecapa72 -> simplecapa75 [constraint=true];
+simplecapa75 [label="capa: 5"];
+simplecapa75 -> simplecapa71 [constraint=true];
+simplecapa71 [label="capa: 1"];
+simplecapa71 -> simplecapa73 [constraint=true];
+simplecapa73 [label="capa: 3"];
+
+}

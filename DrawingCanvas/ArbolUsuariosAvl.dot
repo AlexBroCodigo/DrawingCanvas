@@ -1,0 +1,30 @@
+digraph Usuarios{
+ node [shape = record, color=blue3, height=0.1];
+nodeAUuserM[label = "<f0> | <f1> userM | <f2>"];
+nodeAUuserB[label = "<f0> | <f1> userB | <f2>"];
+nodeAUuserA[label = "<f0> | <f1> userA | <f2>"];
+"nodeAUuserB":f0 -> "nodeAUuserA":f1;
+nodeAUuserC[label = "<f0> | <f1> userC | <f2>"];
+"nodeAUuserB":f2 -> "nodeAUuserC":f1;
+"nodeAUuserM":f0 -> "nodeAUuserB":f1;
+nodeAUuserm[label = "<f0> | <f1> userm | <f2>"];
+nodeAUuserY[label = "<f0> | <f1> userY | <f2>"];
+"nodeAUuserm":f0 -> "nodeAUuserY":f1;
+nodeAUuserz[label = "<f0> | <f1> userz | <f2>"];
+"nodeAUuserm":f2 -> "nodeAUuserz":f1;
+"nodeAUuserM":f2 -> "nodeAUuserm":f1;
+node[shape=box, color=crimson, height=0.1];
+"nodeAUuserA":f1 -> nodoimguserA13;
+nodoimguserA13 [label = "img13"];
+nodoimguserA13 -> nodoimguserA14 [constraint=true];
+nodoimguserA14 [label = "img14"];
+"nodeAUuserm":f1 -> nodoimguserm3;
+nodoimguserm3 [label = "img3"];
+"nodeAUuserY":f1 -> nodoimguserY8;
+nodoimguserY8 [label = "img8"];
+nodoimguserY8 -> nodoimguserY9 [constraint=true];
+nodoimguserY9 [label = "img9"];
+nodoimguserY9 -> nodoimguserY10 [constraint=true];
+nodoimguserY10 [label = "img10"];
+
+}

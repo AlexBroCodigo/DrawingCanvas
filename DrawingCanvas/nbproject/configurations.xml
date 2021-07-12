@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>ArbolAvlUsuarios.h</itemPath>
+      <itemPath>ArbolCapas.h</itemPath>
+      <itemPath>ListaCabeceras.h</itemPath>
+      <itemPath>ListaCircularImagenes.h</itemPath>
+      <itemPath>ListaHorizontal.h</itemPath>
+      <itemPath>ListaLaterales.h</itemPath>
+      <itemPath>ListaSimpleCapas.h</itemPath>
+      <itemPath>ListaSimpleImagenes.h</itemPath>
+      <itemPath>ListaTopImagenes.h</itemPath>
+      <itemPath>ListaTopUsuarios.h</itemPath>
+      <itemPath>ListaVertical.h</itemPath>
+      <itemPath>MatrizCapa.h</itemPath>
+      <itemPath>NodoDispersa.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>ArbolAvlUsuarios.cpp</itemPath>
+      <itemPath>ArbolCapas.cpp</itemPath>
+      <itemPath>ListaCabeceras.cpp</itemPath>
+      <itemPath>ListaCircularImagenes.cpp</itemPath>
+      <itemPath>ListaHorizontal.cpp</itemPath>
+      <itemPath>ListaLaterales.cpp</itemPath>
+      <itemPath>ListaSimpleCapas.cpp</itemPath>
+      <itemPath>ListaSimpleImagenes.cpp</itemPath>
+      <itemPath>ListaTopImagenes.cpp</itemPath>
+      <itemPath>ListaTopUsuarios.cpp</itemPath>
+      <itemPath>ListaVertical.cpp</itemPath>
+      <itemPath>MatrizCapa.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="ArbolAvlUsuarios.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ArbolAvlUsuarios.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ArbolCapas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ArbolCapas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaCabeceras.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaCabeceras.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaCircularImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaCircularImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaHorizontal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaHorizontal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaLaterales.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaLaterales.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaSimpleCapas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaSimpleCapas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaSimpleImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaSimpleImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaTopImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaTopImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaTopUsuarios.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaTopUsuarios.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaVertical.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaVertical.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MatrizCapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MatrizCapa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoDispersa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="ArbolAvlUsuarios.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ArbolAvlUsuarios.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ArbolCapas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ArbolCapas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaCabeceras.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaCabeceras.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaCircularImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaCircularImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaHorizontal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaHorizontal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaLaterales.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaLaterales.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaSimpleCapas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaSimpleCapas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaSimpleImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaSimpleImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaTopImagenes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaTopImagenes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaTopUsuarios.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaTopUsuarios.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaVertical.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaVertical.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MatrizCapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MatrizCapa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoDispersa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

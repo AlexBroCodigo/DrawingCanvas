@@ -1,0 +1,14 @@
+digraph g{
+ node [shape = record,height=.1, color="#1A0082"];
+ edge[color="#009BFF"];
+nodeAC3[label = "<f0> | <f1> 3 | <f2>"];
+nodeAC2[label = "<f0> | <f1> 2 | <f2>"];
+nodeAC1[label = "<f0> | <f1> 1 | <f2>"];
+"nodeAC2":f0 -> "nodeAC1":f1;
+"nodeAC3":f0 -> "nodeAC2":f1;
+nodeAC4[label = "<f0> | <f1> 4 | <f2>"];
+nodeAC5[label = "<f0> | <f1> 5 | <f2>"];
+"nodeAC4":f2 -> "nodeAC5":f1;
+"nodeAC3":f2 -> "nodeAC4":f1;
+
+}
