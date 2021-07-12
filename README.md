@@ -8,7 +8,7 @@ Existen tres tipos de archivos para cargar previamente:
 
 ## Ejemplos:  
 Ejemplos de imágenes generadas con la aplicación.
-![MarioBros](https://user-images.githubusercontent.com/65095924/125353099-5a18d400-e31f-11eb-8d69-5121195abeb9.png =850x1444 "Mario Bros")
+<img src="https://user-images.githubusercontent.com/65095924/125353099-5a18d400-e31f-11eb-8d69-5121195abeb9.png" alt="MarioBros" width="850" height="1444">
 
 ![MarioBrosBlack](https://user-images.githubusercontent.com/65095924/125353151-6a30b380-e31f-11eb-8f69-35d2ca02be06.png "Mario Bros Black")
 
