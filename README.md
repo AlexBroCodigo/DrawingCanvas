@@ -10,13 +10,15 @@ Existen tres tipos de archivos para cargar previamente:
 Ejemplos de imágenes generadas con la aplicación.  
 
 <img src="https://user-images.githubusercontent.com/65095924/125353099-5a18d400-e31f-11eb-8d69-5121195abeb9.png" alt="MarioBros" width="25%"/>
+<img src="https://user-images.githubusercontent.com/65095924/125353151-6a30b380-e31f-11eb-8f69-35d2ca02be06.png" alt="MarioBrosBlack" width="25%"/>
+<img src="https://user-images.githubusercontent.com/65095924/125353386-b976e400-e31f-11eb-8cb1-a84d7a519cf2.png" alt="pacman" width="25%"/>
+<img src="https://user-images.githubusercontent.com/65095924/125353745-2c805a80-e320-11eb-9397-e55a47bb3544.png" alt="Albedo" width="25%"/>
 
 <!--![MarioBrosBlack](https://user-images.githubusercontent.com/65095924/125353151-6a30b380-e31f-11eb-8f69-35d2ca02be06.png "Mario Bros Black")
 
 ![pacman](https://user-images.githubusercontent.com/65095924/125353386-b976e400-e31f-11eb-8cb1-a84d7a519cf2.png "Pacman")
 
 ![Albedo](https://user-images.githubusercontent.com/65095924/125353745-2c805a80-e320-11eb-9397-e55a47bb3544.png "Albedo Overlod") -->
-
 ___
 ## Herramientas utilizadas:  
 **NetBeans 8.2 IDE (Lenguaje C++)**
